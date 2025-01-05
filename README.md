@@ -2,7 +2,9 @@
 
 Das Spiel _Humanoid_ wurde im Rahmen der Maturabeit _Programmieren und Gestalten eines Videospiels_ an der Kantonsschule Im Lee Winterthur unter der Betreuung von Thomas Graf erstellt und ist Teil der Arbeit. 
 
-Das Spiel kann unter folgendem Link heruntergeladen werden: 
+Das Spiel Humanoid. kann unter folgendem Link heruntergeladen werden: 
+- [Windows](link.com)
+- [MacOS](link.com)
 
 Der Quellcode des Spiels ist im Ordner _xxx_ zu finden. 
 
