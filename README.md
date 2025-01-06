@@ -5,7 +5,7 @@ Das Spiel _Humanoid_ wurde im Rahmen der Maturabeit _Programmieren und Gestalten
 Das Spiel Humanoid. kann unter folgendem Link heruntergeladen werden: 
 - [Windows](https://eduzh-my.sharepoint.com/:u:/g/personal/fabian_keller1_stud_edu_zh_ch/EXPqf3A91btCjO3_vvack_oB_6CY1Eg9qt5jyWmzhufmAQ?email=thomas.graf%40edu.zh.ch&e=krDYP1)
 
-Der Quellcode des Spiels ist im Ordner _xxx_ zu finden. 
+Der Quellcode des Spiels ist im Ordner Quellcode.zip zu finden. 
 
 ## Abstract – Die Entwicklung eines Matroidvanias**
 
