@@ -45,6 +45,10 @@ space – Sprung
 - space \[an Wand] – Wand-Absprung 
 - Maustaste rechts – Dash (Schub) in Blickrichtung
 
+**Schliessung des Spiels**
+
+- "Alt" + "f4" schliesst das Spiel
+
 **Viel Spass beim Spielen!**
 
 
