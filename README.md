@@ -3,7 +3,7 @@
 Das Spiel _Humanoid_ wurde im Rahmen der Maturabeit _Programmieren und Gestalten eines Videospiels_ an der Kantonsschule Im Lee Winterthur unter der Betreuung von Thomas Graf erstellt und ist Teil der Arbeit. 
 
 Das Spiel Humanoid. kann unter folgendem Link heruntergeladen werden: 
-- [Windows]([https://eduzh-my.sharepoint.com/:u:/g/personal/fabian_keller1_stud_edu_zh_ch/EXPqf3A91btCjO3_vvack_oB_6CY1Eg9qt5jyWmzhufmAQ?email=thomas.graf%40edu.zh.ch&e=krDYP1](https://eduzh-my.sharepoint.com/:f:/r/personal/fabian_keller1_stud_edu_zh_ch/Documents/Maturarbeit_update?csf=1&web=1&e=8wUhGJ))
+- [Windows](https://eduzh-my.sharepoint.com/:f:/g/personal/fabian_keller1_stud_edu_zh_ch/Eg7s-ne2cpRMkdpz30b7zdIBnnhKCT_TmZmi9Oxmk_9gMA?e=ZwgCAj)
 
 Der Quellcode des Spiels ist im Ordner Quellcode.zip zu finden. 
 
